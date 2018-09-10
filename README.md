@@ -1,4 +1,3 @@
 # Compiler
 Compiler class project
- ECE 468
- \nZX Y, JQ Y
+ ECE 468, implemented by ZX Y and JQ Y
