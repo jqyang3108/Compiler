@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp step2/classes/:${CLASSPATH} Micro $1 > $2
